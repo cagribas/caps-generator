@@ -3,6 +3,7 @@
 Web app to create caps.
 
 ## Made with React.
+To start this app run "npm install" and "npm start" on terminal.
 
 - You can add your captions through "top text" and "bottom text" text fields in random memes.
 - To create memes, click "Get a new meme image" button after editing.
