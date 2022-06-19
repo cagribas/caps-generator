@@ -1,6 +1,6 @@
 # Caps Generator
 
-Web app to create caps.
+Web app to create caps. It's build in external api.
 
 ## Made with React.
 To start this app run with "npm install" and "npm start" in project folder.
